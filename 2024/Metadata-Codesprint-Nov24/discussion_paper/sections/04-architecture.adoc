@@ -30,12 +30,19 @@ include::architecture/ogcapiprocesses.adoc[]
 
 === Approved ISO Standards
 
+* ISO 19115-1:2014 Georaphic information - Metadata - Part 1: Fundamentals
+* ISO 19115-2:2019 Geographic information - Mtadata - Part 2: Extension for acquisition and processing
+* ISO 19115-3:2023 Geographic information - Metadata - Part 3: XML schema implementation for fundamental concepts
+* ISO 19157-1:2023 Geographic information - Data quality - Part 1: General requirements
+* ISO 19157-2:2016 Geographic information - Data quality - Part 2: XML schema implementation (Note: this is the XML schemaimplementation of superseded ISO 19157:2013 standard)
 
 === Candidate OGC Standards
 
 include::architecture/ogcapirecords.adoc[]
 
 === Candidate ISO Standards
+* ISO/TR 19115-4 Geographic information - Metadata - Part 4: Part 3: JSON schema implementation for fundamental concepts
+* ISO 19157-3 Geographic information - Data quality - Part 3: Data quality measures register
 
 The roadmap for ISO 19115-4, JSON encoding was discussed. The code sprint illustrated how modularity for such an encoding could be approached.
 
